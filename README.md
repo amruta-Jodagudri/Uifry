@@ -15,15 +15,15 @@ To run this project locally, follow these steps:
    
 2. Navigate to the project directory:
 
-   cd <project-directory>
+   cd Uifry
 
 3. Install dependencies:
 
-   npm install / yarn install
+   npm install
 
 4. Build the application:
 
-   npm run build / yarn build
+   npm run build
 
 5.Start the development server:
     
